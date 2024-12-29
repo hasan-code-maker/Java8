@@ -1,3 +1,5 @@
+package com.java8.features.lambda;
+
 @FunctionalInterface
 public interface FuncInterface {
 
